@@ -60,4 +60,6 @@ function GiveResultToUser()
     {
         alert("were you trying to put wrong answers on purpose, "+userName+" ?, please read again!");
     }
+
+    userScore = 0;
 }
