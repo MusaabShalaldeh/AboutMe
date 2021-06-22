@@ -76,7 +76,7 @@ function CheckAnswer(value)
             userScore++;
             break;
         case 'no':
-            userScore--;
+            userScore -= 0.5;
             break;
         default:
             alert('please answer with yes or no...decreasing your score..');
