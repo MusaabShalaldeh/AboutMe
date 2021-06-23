@@ -19,7 +19,11 @@ let favMusic = ['electronic rock','chill vibe','fantasy instrumentals','classic 
 let answered7Correctly = false;
 
 
-function startAskingQuestions()
+
+/*Musaab has done the function part already so I've just changed some functions name to be semantically understood*/
+
+
+function beginButton()
 {
     
     userName = prompt("Hello random Person on the internet, what is your name ?");
